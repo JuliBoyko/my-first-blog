@@ -1,4 +1,5 @@
 # .gitignore
 
-__venv__/
-db.sqlite3
+/__venv__/
+/db.sqlite3
+__pycache__
